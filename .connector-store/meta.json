@@ -6,17 +6,17 @@
     "description": "Gmail connector allows you to send and access e-mail messages which are in your Gmail mailbox. The connector uses the standard IMAP and SMTP protocols with the extensions provided by Google to provide a more Gmail-like experience.",
     "status": "Active",
     "labels": [
-        "Communication",
-        "Application"
+        "connector"
     ],
     "releases": [
         {
-            "tagName": "3.0.7",
+            "tag_name": "v3.0.8",
             "products": [
-                "EI 6.5.0",
-                "EI 6.4.0",
-                "ESB 5.0.0"
-            ]
+                "EI 7.0.x",
+                "EI 6.6.0",
+                "EI 6.5.0"
+            ],
+            "isHidden": false
         }
     ]
 }
